@@ -1,0 +1,11 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jetpack-io/devbox/0.10.3/.schema/devbox.schema.json",
+  "packages": [
+    "nodejs@22.3.0",
+    "typescript@5.4.5"
+  ],
+  "shell": {
+    "init_hook": [],
+    "scripts": {}
+  }
+}
