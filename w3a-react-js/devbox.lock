@@ -2,9 +2,9 @@
   "lockfile_version": "1",
   "packages": {
     "nodejs@22.3.0": {
-      "last_modified": "2024-07-07T07:43:47Z",
+      "last_modified": "2024-07-10T06:55:44Z",
       "plugin_version": "0.0.2",
-      "resolved": "github:NixOS/nixpkgs/b60793b86201040d9dee019a05089a9150d08b5b#nodejs_22",
+      "resolved": "github:NixOS/nixpkgs/aa9461550594533c29866d42f861b6ff079a7fb6#nodejs_22",
       "source": "devbox-search",
       "version": "22.3.0",
       "systems": {
