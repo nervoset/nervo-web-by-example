@@ -5,7 +5,7 @@ function App() {
     return (
         <div>
             <div>
-                <nervo-chat header="Ai Agent" title="Web Academy" subtitle="Crypto"></nervo-chat>
+                <nervo-chat height="h-[97vh]" header="Ai Agent" title="Web Academy" subtitle="Crypto"></nervo-chat>
             </div>
         </div>
     )
